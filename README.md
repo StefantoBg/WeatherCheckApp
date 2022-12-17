@@ -7,7 +7,12 @@ How to start:
 
 npm install 
 
+step 2
+
 node app.js
 
+or 
+
+nodemon 
 
 Thank you!

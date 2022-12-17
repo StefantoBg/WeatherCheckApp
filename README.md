@@ -5,14 +5,12 @@ bootcamp project API response request with https module .
 
 How to start: 
 
+git clone 
+
+cd Weather*
+
 npm install 
 
-step 2
-
-node app.js
-
-or 
-
-nodemon 
+node app.js or  nodemon 
 
 Thank you!
